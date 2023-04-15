@@ -65,9 +65,10 @@ li {
   border: 1px solid #70757a;
   transition: all ease-in-out 200ms;
   padding: 15px;
-  margin: 20px;
-  border-radius: 10px;
+  margin: 30px;
+  border-radius: 5px;
   max-width: 600px;
+  
 }
 
 .temperature {
