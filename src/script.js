@@ -112,4 +112,4 @@ fahrenheitLink.addEventListener("click", fahrenheitTemperature);
 let currentLocationButton = document.querySelector("#current-location-button");
 currentLocationButton.addEventListener("click", runNavigator);
 
-defaultCity("New York");
+defaultCity("London");
