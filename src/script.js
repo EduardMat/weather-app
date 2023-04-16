@@ -43,7 +43,7 @@ function celsiusTemperature() {
 
 function fahrenheitTemperature() {
   let temperature = document.querySelector("#temperature");
-  let celsius = currentTemperature.innerHTML;
+  let celsius = temperature.innerHTML;
   celsius = Number(celsius);
   temperature.innerHTML = Math.round((celsius * 9) / 5 + 32);
 }
