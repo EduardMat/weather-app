@@ -20,28 +20,18 @@ let day = days[now.getDay()];
 
 h2.innerHTML = day + " " + hours + ":" + minutes;
 
-//search form
-//function search(event) {
-//event.preventDefault();
-//let searchCity = document.querySelector(`#city-input`);
-
-//let city = document.querySelector(`#current-city`);
-//city.innerHTML = `${searchCity.value}`;
-//console.log(searchCity);
-// }
-
-//let form = document.querySelector(`#search-form`);
-//form.addEventListener(`submit`, search);
 
 //WEEK 5 PLUS HOMEWORK
 //celsius- fahrenheit
 
 function celsiusTemperature() {
-  let temperature = document.querySelector("#temperature");
-  temperature.innerHTML = 10;
+ let temperature = document.querySelector("#temperature");
+ temperature.innerHTML = 10;
+  
 }
 
 function fahrenheitTemperature() {
+
   let temperature = document.querySelector("#temperature");
   let celsius = temperature.innerHTML;
   celsius = Number(celsius);

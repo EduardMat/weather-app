@@ -19,6 +19,19 @@ h2 {
   margin: 0 auto;
 }
 
+h3{
+  color:#70757a ;
+  font-size: 16px;
+  margin: 0 auto;
+}
+
+.front-picture{
+  padding-left: 1px;
+  float: left;
+}
+
+
+
 ul {
   margin: 0 0 20px;
   padding: 0;
@@ -36,7 +49,7 @@ li {
 
 .current {
   position: relative;
-  top: -143px;
+  top: -123px;
   border: 1px solid #70757a;
   border-radius: 4px;
   background-color: #a1b5be;
@@ -52,7 +65,7 @@ li {
 
 .list2 {
   position: relative;
-  top: -120px;
+  top: -100px;
 }
 
 .list1 {
