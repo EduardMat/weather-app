@@ -53,14 +53,16 @@ li {
   border: 1px solid #70757a;
   border-radius: 4px;
   background-color: #a1b5be;
+  color: #54565A;
 }
 
 .current:hover {
   position: relative;
-  top: -143px;
+  top: -123px;
   border: 1px solid #70757a;
   border-radius: 4px;
   background-color: #a7bcd3;
+  color:#54565A;
 }
 
 .list2 {
@@ -74,18 +76,18 @@ li {
 }
 
 .weather-app {
-  background: #bababa;
+  background:#DFDFDF ;
   border: 1px solid #70757a;
   transition: all ease-in-out 200ms;
   padding: 15px;
   margin: 20px  auto;
   border-radius: 5px;
-  max-width: 600px;
+  max-width: 700px;
   
 }
 
 .weather-app-wrapper{
-  max-width: 600px;
+  max-width: 700px;
   margin: 20px auto;
 }
 
