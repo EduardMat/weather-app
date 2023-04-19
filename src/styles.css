@@ -19,18 +19,16 @@ h2 {
   margin: 0 auto;
 }
 
-h3{
-  color:#70757a ;
+h3 {
+  color: #70757a;
   font-size: 16px;
   margin: 0 auto;
 }
 
-.front-picture{
+.front-picture {
   padding-left: 1px;
   float: left;
 }
-
-
 
 ul {
   margin: 0 0 20px;
@@ -53,7 +51,7 @@ li {
   border: 1px solid #70757a;
   border-radius: 4px;
   background-color: #a1b5be;
-  color: #54565A;
+  color: #54565a;
 }
 
 .current:hover {
@@ -62,7 +60,7 @@ li {
   border: 1px solid #70757a;
   border-radius: 4px;
   background-color: #a7bcd3;
-  color:#54565A;
+  color: #54565a;
 }
 
 .list2 {
@@ -76,17 +74,16 @@ li {
 }
 
 .weather-app {
-  background:#DFDFDF ;
+  background: #dfdfdf;
   border: 1px solid #70757a;
   transition: all ease-in-out 200ms;
   padding: 15px;
-  margin: 20px  auto;
+  margin: 20px auto;
   border-radius: 5px;
   max-width: 700px;
-  
 }
 
-.weather-app-wrapper{
+.weather-app-wrapper {
   max-width: 700px;
   margin: 20px auto;
 }
@@ -107,7 +104,7 @@ li {
   border-radius: 4px;
 }
 
-.link-dev{
+.link-dev {
   position: relative;
   left: 100px;
   font-size: smaller;
