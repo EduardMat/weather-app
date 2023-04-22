@@ -106,6 +106,6 @@ li {
 
 .link-dev {
   position: relative;
-  left: 100px;
+  text-align: center;
   font-size: smaller;
 }
