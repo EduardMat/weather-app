@@ -89,7 +89,7 @@ li {
 }
 
 .temperature {
-  color: rgb(33, 33, 33);
+  color:#70757a; 
   font-size: 45px;
   font-weight: 300;
 }
